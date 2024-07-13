@@ -1,1 +1,1 @@
- # A cookicutter template for the python projects
+ # A cookiecutter template for the python projects

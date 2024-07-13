@@ -1,0 +1,1 @@
+# Readme of {{cookiecutter.project_name}}
